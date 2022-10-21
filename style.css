@@ -41,7 +41,7 @@ ul{
     display: flex;
     background-color: #1f2937;
     justify-content: center;
-    gap: 35px;
+    gap: 20px;
     align-items: center;
     flex-wrap: wrap;
     padding-top: 75px;
@@ -57,14 +57,14 @@ width: 400px;
 .next{
 color: #E5E7EB;
 font-size: 18px;
-width: 1;
+width: 400px;
 }
 .p{
     margin-top: 25px;
-    width: 380px;
+    width: 450px;
     height:240px;
 }
-.tic{
+.pic{
     height: 240px;
     width: 520px;
     background-color: lightslategray;
@@ -192,7 +192,7 @@ font-size: larger;
 
 footer{
     background-color:#1f2937;
-    height:100px ;
+    height:120px ;
     width: 1445px;
     display: flex;
     justify-content: center;
