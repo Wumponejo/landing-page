@@ -11,4 +11,7 @@ Second: Now the first draft of the copy is ended. Keeps being far from being per
 with the use of some fonts in texts all along the page. But it has all the elements initially required an it's similar enough to the provided image, so it counts
 in respect to what was stated in TOP (that it only needs to be similar, not necessarily a perfect reproduction).
 
+The following commits will be attempts to make a more allegied copy to the original, focusing on little details. The Third will be declared when the alternative
+page is pushed, unless some other idea results to be important enough before the alternative is finished.
+
 
