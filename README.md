@@ -14,4 +14,8 @@ in respect to what was stated in TOP (that it only needs to be similar, not nece
 The following commits will be attempts to make a more allegied copy to the original, focusing on little details. The Third will be declared when the alternative
 page is pushed, unless some other idea results to be important enough before the alternative is finished.
 
+Third commmit: The alternative version. It's color changes will be added later, since the general blueish design is good enough and i have been struggling with 
+adding lightblue to the 4th section without succeding in it. The major changes are the images, the composition and text of the second section and some other minor
+stuff,
+
 
